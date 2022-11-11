@@ -6,7 +6,7 @@ Last updated:
 
 */
 
-namespace HelloWorld
+namespace moment2
 {
     class Program
     {
