@@ -1,0 +1,15 @@
+/Users/beatricebjorn/Desktop/year_two/c#/moment2/bin/Debug/net6.0/moment2
+/Users/beatricebjorn/Desktop/year_two/c#/moment2/bin/Debug/net6.0/moment2.deps.json
+/Users/beatricebjorn/Desktop/year_two/c#/moment2/bin/Debug/net6.0/moment2.runtimeconfig.json
+/Users/beatricebjorn/Desktop/year_two/c#/moment2/bin/Debug/net6.0/moment2.dll
+/Users/beatricebjorn/Desktop/year_two/c#/moment2/bin/Debug/net6.0/moment2.pdb
+/Users/beatricebjorn/Desktop/year_two/c#/moment2/obj/Debug/net6.0/moment2.csproj.AssemblyReference.cache
+/Users/beatricebjorn/Desktop/year_two/c#/moment2/obj/Debug/net6.0/moment2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beatricebjorn/Desktop/year_two/c#/moment2/obj/Debug/net6.0/moment2.AssemblyInfoInputs.cache
+/Users/beatricebjorn/Desktop/year_two/c#/moment2/obj/Debug/net6.0/moment2.AssemblyInfo.cs
+/Users/beatricebjorn/Desktop/year_two/c#/moment2/obj/Debug/net6.0/moment2.csproj.CoreCompileInputs.cache
+/Users/beatricebjorn/Desktop/year_two/c#/moment2/obj/Debug/net6.0/moment2.dll
+/Users/beatricebjorn/Desktop/year_two/c#/moment2/obj/Debug/net6.0/refint/moment2.dll
+/Users/beatricebjorn/Desktop/year_two/c#/moment2/obj/Debug/net6.0/moment2.pdb
+/Users/beatricebjorn/Desktop/year_two/c#/moment2/obj/Debug/net6.0/moment2.genruntimeconfig.cache
+/Users/beatricebjorn/Desktop/year_two/c#/moment2/obj/Debug/net6.0/ref/moment2.dll
